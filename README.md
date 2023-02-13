@@ -14,3 +14,6 @@
 
 # LEARNING PYTHON PROGRAMMING
 1) Numerical Python by Robert Johansson http://jrjohansson.github.io/numericalpython.html
+https://github.com/jrjohansson/numerical-python-book-code/blob/master/README.md
+2)
+3)
