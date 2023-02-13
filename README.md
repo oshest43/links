@@ -1,9 +1,3 @@
-# Forest Plot in R
-1) The author of the forestplot package Max Gordon https://gforge.se/packages/
-2) Introduction to forest plots by Max Gordon https://cran.r-project.org/web/packages/forestplot/vignettes/forestplot.html
-3) Forest Plot (with Horizontal Bands) https://www.r-bloggers.com/2016/07/forest-plot-with-horizontal-bands/
-4) Two-stage individual participant data meta-analysis and generalized forest plots by David Fisher https://journals.sagepub.com/doi/pdf/10.1177/1536867X1501500203
-
 # Learning R
 1) Data Analytics Coding Fundamentals (BIDA302) https://bookdown.org/martin_monkman/DataAnalyticsCodingFundamentals/
 2) R Graphics Cookbook, 2nd edition by Winston Chang https://r-graphics.org/
@@ -15,9 +9,6 @@
 # Learning Python
 1) Numerical Python by Robert Johansson http://jrjohansson.github.io/numericalpython.html
 https://github.com/jrjohansson/numerical-python-book-code/blob/master/README.md
-2)
-3)
 
 # Learning GitHub 
-1) Basic writing and formatting syntax https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-2) 
+1) Basic writing and formatting syntax https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax 
