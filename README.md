@@ -2,8 +2,9 @@
 A collection of useful links
 
 # General
-- Learn Code The Hard Way courses https://learncodethehardway.org/
+- Learn Code The Hard Way courses by Zed Shaw https://learncodethehardway.org/
 - The Command Line Crash Course https://www.computervillage.org/articles/CommandLine.pdf
+- Zed Shaw's GitHub https://github.com/zedshaw
 
 # Learn R
 - Data Analytics Coding Fundamentals (BIDA302) https://bookdown.org/martin_monkman/DataAnalyticsCodingFundamentals/
