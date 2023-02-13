@@ -11,3 +11,7 @@
 
 ## forester Package
 1) https://github.com/rdboyes/forester
+
+# Forest Plot in STATA
+1) meta forestplot — Forest plots in STATA https://www.stata.com/manuals/metametaforestplot.pdf
+2) 
