@@ -3,6 +3,7 @@ A collection of useful links
 
 # General
 - Learn Code The Hard Way courses https://learncodethehardway.org/
+- The Command Line Crash Course https://www.computervillage.org/articles/CommandLine.pdf
 
 # Learn R
 - Data Analytics Coding Fundamentals (BIDA302) https://bookdown.org/martin_monkman/DataAnalyticsCodingFundamentals/
