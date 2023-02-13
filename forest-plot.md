@@ -1,3 +1,7 @@
+# General
+1) Visualizing Multiple Endpoints: Extending the Use of Forest Plots in Clinical Trials (2017) https://www.lexjansen.com/phuse/2017/dv/DV09.pdf
+2)
+
 # Forest Plot in R
 ## forestplot Package
 1) The author of the forestplot package Max Gordon https://gforge.se/packages/
