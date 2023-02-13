@@ -1,6 +1,5 @@
 # General
 1) Visualizing Multiple Endpoints: Extending the Use of Forest Plots in Clinical Trials (2017) https://www.lexjansen.com/phuse/2017/dv/DV09.pdf
-2)
 
 # Forest Plot in R
 ## forestplot Package
@@ -14,8 +13,11 @@
 
 # Forest Plot in STATA
 1) meta forestplot — Forest plots in STATA https://www.stata.com/manuals/metametaforestplot.pdf
-2) 
 
 # Forest Plot in Microsoft Excel
 1) How to Create a Forest Plot in Excel https://www.statology.org/forest-plot-in-excel/
-2) 
+
+
+
+
+
