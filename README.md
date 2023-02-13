@@ -11,3 +11,6 @@
 4) Hands-On Programming with R by Garrett Grolemund https://rstudio-education.github.io/hopr/
 5) R Programming for Data Science by Roger D. Peng https://leanpub.com/rprogramming
 6) Doing Meta-Analysis with R: A Hands-On Guide https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/
+
+# LEARNING PYTHON PROGRAMMING
+1) Numerical Python by Robert Johansson http://jrjohansson.github.io/numericalpython.html
