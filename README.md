@@ -1,5 +1,5 @@
 # links
-## A collection of useful links
+A collection of useful links
 
 # General
 - Learn Code The Hard Way courses https://learncodethehardway.org/
