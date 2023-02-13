@@ -5,6 +5,7 @@ A collection of useful links
 - Learn Code The Hard Way courses by Zed Shaw https://learncodethehardway.org/
 - The Command Line Crash Course https://www.computervillage.org/articles/CommandLine.pdf
 - Zed Shaw's GitHub https://github.com/zedshaw
+- An Introduction To Database Systems by Bipin Desai /https://spectrum.library.concordia.ca/id/eprint/988586/1/An-Introduction-to-Database-Systems-Bipin-C.DESAI.pdf
 
 # Learn R
 - Data Analytics Coding Fundamentals (BIDA302) https://bookdown.org/martin_monkman/DataAnalyticsCodingFundamentals/
