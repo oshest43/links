@@ -13,8 +13,16 @@ https://www.coursera.org/professional-certificates/sas-programming
 - Course 3. Preparing for the SAS Programming Certification Exam https://www.coursera.org/learn/preparing-sas-programming-certification?specialization=sas-programming
 - Course 4. Practicing for the SAS Programming Certification Exam https://www.coursera.org/learn/practicing-sas-programming-certification?specialization=sas-programming
 
+### SAS Statistical Business Analyst Professional Certificate
+https://www.coursera.org/professional-certificates/sas-statistical-business-analyst
+
+- Course 1. Introduction to Statistical Analysis: Hypothesis Testing https://www.coursera.org/learn/statistical-analysis-hypothesis-testing-sas?specialization=sas-statistical-business-analyst
+- Course 2. Regression Modeling Fundamentals https://www.coursera.org/learn/regression-modeling-sas?specialization=sas-statistical-business-analyst
+- Course 3. Predictive Modeling with Logistic Regression using SAS https://www.coursera.org/learn/sas-predictive-modeling-using-logistic-regression?specialization=sas-statistical-business-analyst
 
 ## Individual Courses
-### Statistics with SAS https://www.coursera.org/learn/sas-statistics
+### Statistics with SAS 
+https://www.coursera.org/learn/sas-statistics
+### 
+###
 
-- 
