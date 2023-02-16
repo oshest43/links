@@ -23,6 +23,10 @@ https://www.coursera.org/professional-certificates/sas-statistical-business-anal
 ### SAS Visual Business Analytics Professional Certificate
 https://www.coursera.org/professional-certificates/sas-visual-business-analytics
 
+- Course 1. Getting Started with SAS Visual Analytics [[link](https://www.coursera.org/learn/preparing-data-sas-va?specialization=sas-visual-business-analytics)]
+- Course 2. Data Analysis and Reporting in SAS Visual Analytics [[link](https://www.coursera.org/learn/data-analysis-reporting-sas-va?specialization=sas-visual-business-analytics)]
+- Course 3. Using Data for Geographic Mapping and Forecasting in SAS Visual Analytics [[link](https://www.coursera.org/learn/using-data-geographic-mapping-sas-va?specialization=sas-visual-business-analytics)]
+- Course 4. Performing Network, Path, and Text Analyses in SAS Visual Analytics [[link](https://www.coursera.org/learn/network-path-text-analyses-sas-va?specialization=sas-visual-business-analytics)]
 
 
 
@@ -32,3 +36,4 @@ https://www.coursera.org/learn/sas-statistics
 ### 
 ###
 
+[[link]()]
