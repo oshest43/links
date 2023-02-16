@@ -16,9 +16,9 @@ https://www.coursera.org/professional-certificates/sas-programming
 ### SAS Statistical Business Analyst Professional Certificate
 https://www.coursera.org/professional-certificates/sas-statistical-business-analyst
 
-- Course 1. Introduction to Statistical Analysis: Hypothesis Testing https://www.coursera.org/learn/statistical-analysis-hypothesis-testing-sas?specialization=sas-statistical-business-analyst
-- Course 2. Regression Modeling Fundamentals https://www.coursera.org/learn/regression-modeling-sas?specialization=sas-statistical-business-analyst
-- Course 3. Predictive Modeling with Logistic Regression using SAS https://www.coursera.org/learn/sas-predictive-modeling-using-logistic-regression?specialization=sas-statistical-business-analyst
+- Course 1. Introduction to Statistical Analysis: Hypothesis Testing [[link](https://www.coursera.org/learn/statistical-analysis-hypothesis-testing-sas?specialization=sas-statistical-business-analyst)]
+- Course 2. Regression Modeling Fundamentals [[link](https://www.coursera.org/learn/regression-modeling-sas?specialization=sas-statistical-business-analyst)]
+- Course 3. Predictive Modeling with Logistic Regression using SAS [[link](https://www.coursera.org/learn/sas-predictive-modeling-using-logistic-regression?specialization=sas-statistical-business-analyst)]
 
 ### SAS Visual Business Analytics Professional Certificate
 https://www.coursera.org/professional-certificates/sas-visual-business-analytics
@@ -43,4 +43,4 @@ https://www.coursera.org/learn/sas-statistics
 ### 
 ###
 
-Course 1. [[link]()]
+Course 1. [[link]()] do not click!
