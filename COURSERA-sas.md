@@ -41,6 +41,13 @@ https://www.coursera.org/specializations/time-series-sequential-data
 ### Data Analysis and Interpretation Specialization
 https://www.coursera.org/specializations/data-analysis#courses
 
+- Course 1. Data Management and Visualization [[link](https://www.coursera.org/learn/data-visualization?specialization=data-analysis)]
+- Course 2. Data Analysis Tools [[link](https://www.coursera.org/learn/data-analysis-tools?specialization=data-analysis)]
+- Course 3. Regression Modeling in Practice [[link](https://www.coursera.org/learn/regression-modeling-practice?specialization=data-analysis)]
+- Course 4. Machine Learning for Data Analysis [[link](https://www.coursera.org/learn/machine-learning-data-analysis?specialization=data-analysis)]
+- Course 5. Data Analysis and Interpretation Capstone [[link](https://www.coursera.org/learn/data-analysis-capstone?specialization=data-analysis)]
+
+
 
 ## Individual Courses
 ### Statistics with SAS 
