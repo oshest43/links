@@ -13,6 +13,8 @@ https://www.coursera.org/professional-certificates/sas-programming
 - Course 3. Preparing for the SAS Programming Certification Exam [[link](https://www.coursera.org/learn/preparing-sas-programming-certification?specialization=sas-programming)]
 - Course 4. Practicing for the SAS Programming Certification Exam [[link](https://www.coursera.org/learn/practicing-sas-programming-certification?specialization=sas-programming)]
 
+>>> Practical SAS Programming and Certification Review [[link](https://www.coursera.org/learn/sas-programming-certification-review)]
+
 ### SAS Statistical Business Analyst Professional Certificate
 https://www.coursera.org/professional-certificates/sas-statistical-business-analyst
 
