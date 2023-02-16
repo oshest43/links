@@ -20,6 +20,12 @@ https://www.coursera.org/professional-certificates/sas-statistical-business-anal
 - Course 2. Regression Modeling Fundamentals https://www.coursera.org/learn/regression-modeling-sas?specialization=sas-statistical-business-analyst
 - Course 3. Predictive Modeling with Logistic Regression using SAS https://www.coursera.org/learn/sas-predictive-modeling-using-logistic-regression?specialization=sas-statistical-business-analyst
 
+### SAS Visual Business Analytics Professional Certificate
+https://www.coursera.org/professional-certificates/sas-visual-business-analytics
+
+
+
+
 ## Individual Courses
 ### Statistics with SAS 
 https://www.coursera.org/learn/sas-statistics
