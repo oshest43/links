@@ -31,13 +31,15 @@ https://www.coursera.org/professional-certificates/sas-visual-business-analytics
 - Course 4. Performing Network, Path, and Text Analyses in SAS Visual Analytics [[link](https://www.coursera.org/learn/network-path-text-analyses-sas-va?specialization=sas-visual-business-analytics)]
 - Course 5. Creating Advanced Reports with SAS Visual Analytics [[link](https://www.coursera.org/learn/advanced-reports-sas-va?specialization=sas-visual-business-analytics)]
 
-### Analyzing Time Series and Sequential Data Specialization
+### SAS Analyzing Time Series and Sequential Data Specialization
 https://www.coursera.org/specializations/time-series-sequential-data
 
 - Course 1. Creating Features for Time Series Data [[link](https://www.coursera.org/learn/time-series-features?specialization=time-series-sequential-data)]
 - Course 2. Building a Large-Scale, Automated Forecasting System [[link](https://www.coursera.org/learn/large-scale-forecasting-sas-viya?specialization=time-series-sequential-data)]
 - Course 3. Modeling Time Series and Sequential Data [[link](https://www.coursera.org/learn/modeling-time-series-and-sequential-data?specialization=time-series-sequential-data)]
 
+### Data Analysis and Interpretation Specialization
+https://www.coursera.org/specializations/data-analysis#courses
 
 
 ## Individual Courses
