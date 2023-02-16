@@ -52,7 +52,10 @@ https://www.coursera.org/specializations/data-analysis#courses
 ## Individual Courses
 ### Statistics with SAS 
 https://www.coursera.org/learn/sas-statistics
-### 
-###
 
-Course 1. [[link]()] do not click!
+
+
+
+
+
+
